@@ -1,0 +1,8 @@
+[python] Getting response from google.com: 0
+[python] Getting response from google.com: 0
+[python] Getting response from google.com: 0
+[python] Getting response from google.com: 0
+[python] Getting response from google.com: 0
+[python] Getting response from google.com: 0
+Searching for python done in 15.22 second(s)
+[flamengo] Getting response from google.com: 0
